@@ -1,0 +1,1039 @@
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Attacks/Light_Attack_Sounds/Light_Attack_Sound.uasset" 0
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/SoundNotify/LightAttack1Sound.uasset" 1
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleC/Wavs/voice_female_c_attack_02.uasset" 2
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/SoundNotify/Voice_Attack1.uasset" 3
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Jog_Animation_Skeleton.uasset" 4
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/AttackAnimations/LightHoldChargeAttack.uasset" 5
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 6
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Enum/Attack_Type_Enum.uasset" 7
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Attack_AnimNotifyState.uasset" 8
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/CanEvade_AnimNotify.uasset" 9
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/CanMove_AnimNotify.uasset" 10
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/CheckForTempCloseEnemy_AnimNotify.uasset" 11
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Enum/MoveToward_Type.uasset" 12
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/AnimNotifyControllerBP.uasset" 13
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/MoveTowardTarget_AnimNotifyState.uasset" 14
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/RotateToward_Target_AnimNotifyState.uasset" 15
+"../../../../../Project G Blood Moon Genesis/Content/Cave/Environment/Textures/Noise/TilingNoise03.uasset" 16
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Textures/Noise/T_TilingNoise16.uasset" 17
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MF_UVDistortion.uasset" 18
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Textures/t_EdgeMask.uasset" 19
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/Environment/SunForge/LandscapeAutoMaterial/Meshes/Grass/Textures/Noize_Wave_N.uasset" 20
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/M_AnimTrail_Refraction.uasset" 21
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/Maps/Combat/Cave/Environment/Textures/Noise/TilingNoise03.uasset" 22
+"../../../../../Project G Blood Moon Genesis/Content/Cave/Effects/Textures/Smoke/T_TilingClouds_01.uasset" 23
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_AnimTrail_Refraction_01.uasset" 24
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Gradient.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Greyscale.uasset" 27
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Gradients/GradientMap_Multi.uasset" 28
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothStep.uasset" 29
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/textures/flow/flow_01.uasset" 30
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/textures/flow/flow_69.uasset" 31
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/textures/shapetype/type_00.uasset" 32
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/Materials/Master/Trail_Dissolve_Mat.uasset" 33
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/textures/flow/flow_70.uasset" 34
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/textures/shapetype/type_15.uasset" 35
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/Materials/Stylized_Inst/Stylized_Inst_09.uasset" 36
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/SwordTrails/SunSwordTrail.uasset" 37
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/AttackAnimations/LightHoldChargeAttack_Montage.uasset" 38
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Evade/Leaving_Ground_Evade.uasset" 39
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/SoundNotify/Evade_Sound/Leaving_Ground.uasset" 40
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleA/Wavs/voice_female_a_effort_jump_action_07.uasset" 41
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleA/Wavs/voice_female_a_effort_jump_action_08.uasset" 42
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/SoundNotify/Evade_Sound/Voice_Dash1.uasset" 43
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Front_Evade_Animation_Anim.uasset" 44
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/CanAttack_AnimNotifyState.uasset" 45
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/CanJump_AnimNotify.uasset" 46
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/CanShouldPostAttack_AnimNotify.uasset" 47
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/CanShouldPostEvade_AnimNotify.uasset" 48
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/CanShouldPostJump_AnimNotify.uasset" 49
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Evade_AnimNotifyState.uasset" 50
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/PlayCustomParticleEffect.uasset" 51
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/FootstepParticle/StoneSurface/Materials/download.uasset" 52
+"../../../../../Project G Blood Moon Genesis/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 53
+"../../../../../Project G Blood Moon Genesis/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 54
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/FootstepParticle/StoneSurface/Materials/M_smoke_subUV.uasset" 55
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Param_Collections/OrionGlobalArtCollection.uasset" 56
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Debris/T_BlurRock_Greypack_D.uasset" 57
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Debris/T_BlurRock_Greypack_N.uasset" 58
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Debris/M_BlurRocks_Fakelit.uasset" 59
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/VectorFields/Vortex/VF_Vortex_6.uasset" 60
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/EvadeFootParticle/EvadeFootParticle.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 63
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/textures/flow/flow_68.uasset" 64
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/textures/Gradient.uasset" 65
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/Materials/Master/lTiled_Worldoffset_Mat.uasset" 66
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/textures/shapetype/type_17.uasset" 67
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/Materials/Stylized_Inst/Stylized_Inst_07.uasset" 68
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXRPG1/Particles/Stylized/Stylized_Trail_07.uasset" 69
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/DodgeSwish.uasset" 70
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Front_Evade_Animation_Anim_Montage.uasset" 71
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Falling.uasset" 72
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Idle_Animation_Anim.uasset" 73
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/FootstepParticle/StoneSurface/Footstep_Stone_Particle.uasset" 74
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Footstep_Particle_AnimNotify.uasset" 75
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Jog__Start__Animation_Anim.uasset" 76
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Jog__Stop__Animation_Anim.uasset" 77
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Jumping/Jump_Voice.uasset" 78
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Jumping/Jump.uasset" 79
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Jumping.uasset" 80
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Jumping/Land.uasset" 81
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Landing_Additive.uasset" 82
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Landing_Normal.uasset" 83
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Running_Sound_Rock_and_Stone_Surface.uasset" 84
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/SoundNotify/RunningSound1_AnimNotify.uasset" 85
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Running_Sound_Rock_and_Stone_Surface_2.uasset" 86
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/SoundNotify/RunningSound2_AnimNotify.uasset" 87
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Running_Animation_Final_Anim.uasset" 88
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone_Skeleton.uasset" 89
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jog_Downhill_Fwd.uasset" 90
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jog_Fwd.uasset" 91
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jog_Fwd_Circle_Left.uasset" 92
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jog_Fwd_Circle_Right.uasset" 93
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jog_Uphill_Fwd.uasset" 94
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Blendspaces/JogFwdSlopeLean.uasset" 95
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/EvadeParticle/EdgeGlowCurve.uasset" 96
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/EvadeParticle/EdgeGlowParameterCollector.uasset" 97
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 98
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/EvadeParticle/EvadeTrailModuleScript.uasset" 99
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 100
+"../../Plugins/FX/Niagara/Content/Functions/RandomRange.uasset" 101
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 102
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedVector.uasset" 103
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedVector2D.uasset" 104
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 105
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 106
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/Vector2DFromCurve.uasset" 107
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 108
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterLifeCycle.uasset" 109
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 110
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnPerUnit.uasset" 111
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/ApplyInitialForces.uasset" 112
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 113
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/ParticleOwnerPosition.uasset" 114
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 115
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 116
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 117
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 118
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/ENiagaraCoordinateSpace.uasset" 119
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 120
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 121
+"../../Plugins/FX/Niagara/Content/Functions/RandomPointInSphere.uasset" 122
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 123
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uasset" 124
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 125
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/NF_TransformVector.uasset" 126
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/AccelerationForce.uasset" 127
+"../../Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 128
+"../../Plugins/FX/Niagara/Content/Functions/Masks/ConeMask.uasset" 129
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/CurlNoiseForce.uasset" 130
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/DragForce.uasset" 131
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/UpdateAge.uasset" 132
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uasset" 133
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/ENiagaraMassByVolume.uasset" 134
+"../../Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeByMass.uasset" 135
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/SpriteSizeScale.uasset" 136
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Test/Armor.uasset" 137
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Test/Body.uasset" 138
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Test/Face.uasset" 139
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Test/Hair.uasset" 140
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Test/Masks_and_Earrings.uasset" 141
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Test/Rope.uasset" 142
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Test/Tail.uasset" 143
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Test/Aiko_TestAnimation__1__PhysicsAsset.uasset" 144
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Test/Aiko_TestAnimation__1_.uasset" 145
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/EvadeParticle/EvadeSunTrailEmitter.uasset" 146
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 147
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 148
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemLifeCycle.uasset" 149
+"../../Plugins/FX/Niagara/Content/Modules/Update/Velocity/InheritVelocity.uasset" 150
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/EvadeParticle/EvadeLunarTrailContinusEmitterSystem.uasset" 151
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/ParticleEffectsBP.uasset" 152
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/MyCharacter_AnimBP.uasset" 153
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/AttackAnimations/LightHoldCharge.uasset" 154
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/AttackAnimations/LightHoldCharge_Montage.uasset" 155
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/SwordTrails/LunarTrail.uasset" 156
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/AttackAnimations/New_Light_Attack_1_Anim.uasset" 157
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Vector_Fields/VF_VelocityGrid60.uasset" 158
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/EvadeFootParticle/FootStompAttackParticle.uasset" 159
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/AttackAnimations/New_Light_Attack_1_Anim_Montage.uasset" 160
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/AttackAnimations/New_Light_Attack_2_Anim.uasset" 161
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/AttackAnimations/New_Light_Attack_2_Anim_Montage.uasset" 162
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/SoundNotify/LightAttack2_Sound.uasset" 163
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleA/Wavs/voice_female_a_attack_07.uasset" 164
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/SoundNotify/Voice_Attack2.uasset" 165
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/AttackAnimations/New_Light_Attack_3_Anim.uasset" 166
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/AttackAnimations/New_Light_Attack_3_Anim_Montage.uasset" 167
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Big_Knockback_Animation_Anim.uasset" 168
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Big_Knockback_Animation_Anim_Montage.uasset" 169
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Damage_Feedback_Animation_Anim.uasset" 170
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/PlayRandomSoundEffect.uasset" 171
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleA/Cues/voice_female_a_hurt_pain_04_Cue.uasset" 172
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleA/Cues/voice_female_a_hurt_pain_06_Cue.uasset" 173
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleA/Wavs/voice_female_a_attack_03.uasset" 174
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Player_Hit_Minion_sound.uasset" 175
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Damage_Feedback_Animation_Anim_Montage.uasset" 176
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleA/Wavs/voice_female_a_death_08.uasset" 177
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Death_Animation_Anim.uasset" 178
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Death_Animation_Anim_Montage.uasset" 179
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Medium_Knockback_Animation_Anim.uasset" 180
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Medium_Knockback_Animation_Anim_Montage.uasset" 181
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Small_Knockback_Animation_Anim.uasset" 182
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Small_Knockback_Animation_Anim_Montage.uasset" 183
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/UniversalMacroLibrary.uasset" 184
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/BossHitCameraShake.uasset" 185
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Boss_Skeleton.uasset" 186
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_3_lunge_stab_time_fixing_Anim.uasset" 187
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 188
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/Common/Materials/Functions/MF_VFXEyeAdaptation.uasset" 189
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/M_VFXMasterMaterial.uasset" 190
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Global/MaterialFunctions/Textures/Noise/T_noise_flamy_Tile.uasset" 191
+"../../../../../Project G Blood Moon Genesis/Content/TestParticles/fireTexture.uasset" 192
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_AnimTrail_Fire.uasset" 193
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Textures/T_WispTrail.uasset" 194
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_AnimTrail_Tip.uasset" 195
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Particles/Characters/GameplayCues/Yari_Fire_Trail.uasset" 196
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Boss_Attack/Fire_Last_Attack.uasset" 197
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Boss_Attack/Stab_Attack_Sound.uasset" 198
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_3_lunge_stab_time_fixing_Anim_Montage.uasset" 199
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_idle_animation__1__Anim.uasset" 200
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Steps.uasset" 201
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_walking_new__1__Anim.uasset" 202
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Boss_Walking_BlendSpace.uasset" 203
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/ImpactCameraShake.uasset" 204
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Flares/Textures/Flare_white.uasset" 205
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Flares/M_Spark.uasset" 206
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 207
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 208
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/DemoMap/Textures/T_Smoke_D.uasset" 209
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Fragments/Textures/Noise_Anisotropic2_height.uasset" 210
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/SmokeDust/Textures/whisp_One_512_8x8.uasset" 211
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/SmokeDust/Textures/whisp_One_512_8x8_Normal.uasset" 212
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/SmokeDust/whispOne_Master_directional.uasset" 213
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/SmokeDust/Textures/whisp_redux_2048_12x12.uasset" 214
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/SmokeDust/Textures/whisp_redux_2048_normal.uasset" 215
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/SmokeDust/Whisps_trans_additive.uasset" 216
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Material_Functions/MF_CameraDistanceFade.uasset" 217
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Smoke/T_FluidSmoke_03_D.uasset" 218
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Smoke/T_FluidSmoke_03_N.uasset" 219
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Heroes/Shared/M_Boris_Smoke_Cheaper.uasset" 220
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Smoke/T_FluidSmoke_04_Depth.uasset" 221
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Smoke/T_ImpactDust_01.uasset" 222
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Smoke/M_Boris_Lunge_Smoke_INST.uasset" 223
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/Environment/Azure_Forrest/Effects/SparksGlobe/VF_RandomNoise_01_90.uasset" 224
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/Spit/Boss_Spit_FX.uasset" 225
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 226
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 227
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 230
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 233
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 234
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Material_Functions/MF_DitheredRefraction.uasset" 235
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Masks/T_ConeRadial_Mask.uasset" 236
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Masks/T_falloff_circle.uasset" 237
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Noise/T_Perlin_Soft_Packed_Rchannel_N.uasset" 238
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/NormalShapes/T_Column_N.uasset" 239
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Shockwave/M_ShakeParticleRefraction.uasset" 240
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 241
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 242
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Smoke/T_Cloud_Wisp_Chromatic_Tile.uasset" 243
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Shockwave/M_Shockwave_Refraction_Soft.uasset" 244
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/FoliageZRotation.uasset" 245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 249
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 250
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 251
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 252
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 253
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/ImposterUVs.uasset" 254
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 255
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 256
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Debris/T_Rock_Imposter_12x12_D.uasset" 257
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Debris/T_Rock_Imposter_12x12_N.uasset" 258
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Organic/T_Spores_Tile.uasset" 259
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Debris/M_ImposterRock_Translucent_MASTER.uasset" 260
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Debris/M_ImposterRock_Translucent_Inst.uasset" 261
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Meshes/Shapes/SM_NormalsPlane_Edge.uasset" 262
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Meshes/Shapes/SM_refractive_sphere.uasset" 263
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/VectorFields/VF_TurbulentNoise_1_55.uasset" 264
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Particle_Systems/Narbash/Abilities/Dash/Boss_Slam_Impact.uasset" 265
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Boss_Jump_Slam.uasset" 266
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Boss_AnimBP.uasset" 267
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_back_jump_land_animation_skid_motion_Anim.uasset" 268
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss-back_jump_land_throne_montage.uasset" 269
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_3_slash_combo_Anim.uasset" 270
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/EnableAIMovement.uasset" 271
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Boss_Attack/Yari_Swing.uasset" 272
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_3_slash_combo_Anim_Montage.uasset" 273
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_back_full_jump_Anim.uasset" 274
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/SlideBehind.uasset" 275
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Jumps/Boss_Backjump_Launch.uasset" 276
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Jumps/Land_Slide.uasset" 277
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_back_full_jump_Anim_Montage.uasset" 278
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_back_jump_start_animation_skid_motion_Anim.uasset" 279
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_back_jump_start_animation_skid_motion_Anim_throne_Montage.uasset" 280
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_block_for_light_attacks_Anim.uasset" 281
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_block_for_light_attacks_Anim_Montage.uasset" 282
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_block_left2.uasset" 283
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_block_left_Montage.uasset" 284
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_block_right.uasset" 285
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_block_right_Montage.uasset" 286
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_death_animation_Anim.uasset" 287
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_death_animation_Anim_Montage.uasset" 288
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Defense_Break_Animation_Anim.uasset" 289
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/Boss_Defense_Break_Animation_Anim_Montage.uasset" 290
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/blood_middle_loopable_Anim.uasset" 291
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/blood_start_pick_up_Anim.uasset" 292
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/blood_vomit_ending_Anim.uasset" 293
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/ReadySpit.uasset" 294
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/Boss_Drinking_Anim_Montage.uasset" 295
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_fire_claw_attack__new__Anim.uasset" 296
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_fire_claw_attack__new__Anim_Montage.uasset" 297
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_healing_animation_full_Anim.uasset" 298
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_healing_animation_full_Anim_Montage.uasset" 299
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_one_hit_yari_smash_animation_Anim.uasset" 300
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_one_hit_yari_smash_animation_Anim_Montage.uasset" 301
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_round_house_aoe_New_Anim.uasset" 302
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/FollowPlayer.uasset" 303
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_round_house_aoe_New_Anim_Montage.uasset" 304
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_spear_call_back_Anim.uasset" 305
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_spear_call_back_Anim_Montage.uasset" 306
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_spear_throw_Anim.uasset" 307
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_spear_throw_Anim_Montage.uasset" 308
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/blood_back_to_idle_pose_Anim.uasset" 309
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/blood_vomit_loopable_Anim.uasset" 310
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Boss_Attack/Spitting_Sound.uasset" 311
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/Boss_Spitting_Anim_Montage.uasset" 312
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_teleport_dash_animation_Anim.uasset" 313
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/LookAtPortal.uasset" 314
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_teleport_dash_animation_Anim_Montage.uasset" 315
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_throne_jump_full_animation_Anim.uasset" 316
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_throne_jump_full_animation_Anim_Montage.uasset" 317
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_vulnerable_state_plus_ground_smash_timing_fixing_Anim.uasset" 318
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Blocking/Boss_Blocking_Sound.uasset" 319
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_vulnerable_state_plus_ground_smash_timing_fixing_Anim_Montage.uasset" 320
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/boss_yari_push_Anim.uasset" 321
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Vocal/Yari_Push.uasset" 322
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/boss_yari_push_Anim_Montage.uasset" 323
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Break_State_Animation_Anim.uasset" 324
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Montages/Break_State_Animation_Anim_Montage.uasset" 325
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 326
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion_Skeleton.uasset" 327
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Standing_React_Large_From_Right_Anim_mixamo_com.uasset" 328
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion_Damage_Feedback_Montage.uasset" 329
+"../../../../../Project G Blood Moon Genesis/Content/Boss/BossAIController_BP.uasset" 330
+"../../../../../Project G Blood Moon Genesis/Content/Geometry/Meshes/CubeMaterial.uasset" 331
+"../../../../../Project G Blood Moon Genesis/Content/Geometry/Meshes/1M_Cube.uasset" 332
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Portal_BP.uasset" 333
+"../../../../../Project G Blood Moon Genesis/Content/Boss/SpitRadiusRoot.uasset" 334
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Textures/T_FireLoop_8x8.uasset" 335
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_Fire_8x8_01.uasset" 336
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Textures/T_Fire_01.uasset" 337
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_Fire_01.uasset" 338
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 339
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/Common/Materials/Functions/MF_APParticleRandomSize.uasset" 340
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/Common/Patterns/Noise/T_PerlinNoise.uasset" 341
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/Common/Materials/Functions/MF_NoiseFlicker.uasset" 342
+"../../../../../Project G Blood Moon Genesis/Content/GoodUISelectVFX/Textures/shape/Zap_Circle.uasset" 343
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/M_VFXMasterMaterial_GPU.uasset" 344
+"../../../../../Project G Blood Moon Genesis/Content/Arcs_and_Sparks/Textures/T_Spark_01.uasset" 345
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_GPU_Spark_01.uasset" 346
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Textures/T_SmokeBallLoopA_8x8.uasset" 347
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Particles/Characters/NPC/Yari_Sword_Fire.uasset" 348
+"../../../../../Project G Blood Moon Genesis/Content/ArtAssets/Weapon/Naginata_Yari.uasset" 349
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/Impact/GroundCrack/Cracks_01.uasset" 350
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/Impact/GroundCrack/Cracks_01__1_.uasset" 351
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/Impact/GroundCrack/Cracks_Alpha.uasset" 352
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/Impact/GroundCrack/Cracks_NRM.uasset" 353
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise01.uasset" 354
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/Impact/GroundCrack/GroundCrack_M.uasset" 355
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/Impact/GroundCrack/GroundCrack_P.uasset" 356
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Fire_Impact/Common/Materials/Functions/MF_APParticleRandomSize.uasset" 357
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Fire_Impact/Common/Patterns/Noise/T_PerlinNoise.uasset" 358
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Fire_Impact/Common/Materials/Functions/MF_NoiseFlicker.uasset" 359
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Fire_Impact/EffectsRedux/Materials/MF_UVDistortion.uasset" 360
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Fire_Impact/Maps/Combat/Cave/Environment/Textures/Noise/TilingNoise03.uasset" 361
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Fire_Impact/EffectsRedux/Materials/M_VFXMasterMaterial_GPU.uasset" 362
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 363
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Fire_Impact/EffectsRedux/Materials/MI_GPU_Spark_01.uasset" 364
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Fire_Impact/EffectsRedux/Textures/t_Flash_01.uasset" 365
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Fire_Impact/EffectsRedux/Materials/MI_GPU_Spark_02.uasset" 366
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/VField/VF_RandomNoise_01_90.uasset" 367
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/Impact/GroundSpark/Yari_Ground_Spark.uasset" 368
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 369
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Flares/M_Radial_Gradient.uasset" 370
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Fragments/Textures/Gravel2x2_normal.uasset" 371
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Fragments/Textures/Stones2x2.uasset" 372
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Fragments/DebrisMaster.uasset" 373
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/SmokeDust/Whisps_trans.uasset" 374
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/Impacts/DynamicImpacts/Rock/Yari_ThrowBack_Swirl.uasset" 375
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Flares/Textures/T_SparkCore_2X2.uasset" 376
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Flares/M_Spark_sheet_impacts2.uasset" 377
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/Impacts/DynamicImpacts/Rock/Yari_ThrowIn_Impact.uasset" 378
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Material_Functions/MF_FX_EmissiveModulate.uasset" 379
+"../../../../../Project G Blood Moon Genesis/Content/Explosions/Textures/Noise_cloudsmed.uasset" 380
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Noise/T_AtmosphericCloudNoise01.uasset" 381
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Noise/T_TilingNoise12.uasset" 382
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Heroes/Riktor/M_RiktorShockwave.uasset" 383
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Energy/T_lightning_tile.uasset" 384
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Masks/T_Double_Shockwavetga.uasset" 385
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Masks/T_NoisyBeam_M.uasset" 386
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Textures/Noise/T_PerlinPlasma_Noisey_Packed.uasset" 387
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Materials/Heroes/Riktor/M_ShockingGround_Shockwave.uasset" 388
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Meshes/Shapes/SM_BowlWave.uasset" 389
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Meshes/Shapes/SM_Sphere_Scale_Unit_100.uasset" 390
+"../../../../../Project G Blood Moon Genesis/Content/Paragon_VFX/Particle_Systems/Riktor/Abilities/ShockingGround/Yari_GroundWave_RedWave.uasset" 391
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Yari_BP.uasset" 392
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Standing_Idle_Anim_mixamo_com.uasset" 393
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Standing_Run_Forward_Anim_mixamo_com.uasset" 394
+"../../../../../Project G Blood Moon Genesis/Content/NormalMinion_WalkingFrontBlend.uasset" 395
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion1_AnimBP.uasset" 396
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Standing_Melee_Attack_Downward_Anim_mixamo_com.uasset" 397
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion_Standing_Melee_Attack_Downward_Anim_mixamo_com_Montage.uasset" 398
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/MinionHitCameraShake.uasset" 399
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 400
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 401
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 402
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Enum/PlayerTakeDamage_Type_Enum.uasset" 403
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 404
+"../../../../../Project G Blood Moon Genesis/Content/Explosions/Textures/Explodebase1Side3_2K.uasset" 405
+"../../../../../Project G Blood Moon Genesis/Content/Explosions/Mats/Explosive1_M.uasset" 406
+"../../../../../Project G Blood Moon Genesis/Content/Explosions/Particles/P_Explosive1.uasset" 407
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Grenade_BP.uasset" 408
+"../../../../../Project G Blood Moon Genesis/Content/Minion/MinionAIController_BP.uasset" 409
+"../../../../../Project G Blood Moon Genesis/Content/Minion/ShootingPoint_BP.uasset" 410
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 411
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion_Texture_including_skin_on_top_Oni_Test_default_BaseColor.uasset" 412
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion_Texture_including_skin_on_top_Oni_Test_default_Metallic.uasset" 413
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion_Texture_including_skin_on_top_Oni_Test_default_Normal.uasset" 414
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion_Texture_including_skin_on_top_Oni_Test_default_Roughness.uasset" 415
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Oni_Test_default.uasset" 416
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 417
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 418
+"../../../Engine/Content/Engine_MI_Shaders/T_Cubemap_01.uasset" 419
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Liquids/Textures/T_Caustics.uasset" 420
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Liquids/Textures/T_mud_drop.uasset" 421
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Liquids/Textures/T_raindrop_normal.uasset" 422
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Liquids/Textures/TilingNoise06_N.uasset" 423
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Liquids/M_SolidDrop.uasset" 424
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/GeneratedBand.uasset" 425
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M.uasset" 426
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/SmokeDust/Ribbon.uasset" 427
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Fragments/Textures/Speckled_tile.uasset" 428
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Fragments/Textures/Speckled_tile_2.uasset" 429
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/SmokeDust/SpeckledNormal.uasset" 430
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Liquids/Textures/Solid_splash_2.uasset" 431
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Liquids/Textures/Solid_splash_2_normal.uasset" 432
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Liquids/SolidSplash_directional_SSReflective_high.uasset" 433
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/Liquids/SolidSplash_directional_high_spec.uasset" 434
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/FXMaterials/SmokeDust/Whisps_trans2.uasset" 435
+"../../../../../Project G Blood Moon Genesis/Content/Effects/BallisticsVFX/Particles/Impacts/DynamicImpacts/Flesh/Blood_cloud_Dyn.uasset" 436
+"../../../../../Project G Blood Moon Genesis/Content/Explosions/Textures/SquareSpark2.uasset" 437
+"../../../../../Project G Blood Moon Genesis/Content/Explosions/Mats/ThickSpark_M.uasset" 438
+"../../../../../Project G Blood Moon Genesis/Content/Explosions/Particles/LunarSparks_PS.uasset" 439
+"../../../../../Project G Blood Moon Genesis/Content/Minion/FX/Minion_Sword_Impact.uasset" 440
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion_Texture_including_skin_on_top_PhysicsAsset.uasset" 441
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion_Texture_including_skin_on_top.uasset" 442
+"../../../Engine/Content/EngineMaterials/OrientParticle.uasset" 443
+"../../../Engine/Content/EngineMaterials/DefaultParticle.uasset" 444
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Masks/T_GradientLaserSoft_M.uasset" 445
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Tile/Cloud/T_Cloud_Wisp_Chromatic_Tile.uasset" 446
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Tile/Energy/Plasma/T_Greystone_Poster_Tendrils_v2_Seamless.uasset" 447
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Tile/Noise/T_Perlin_Soft_Packed.uasset" 448
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Chroma/M_SphereChromaWisps.uasset" 449
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Functions/M_FadeBasedOnViewAngle.uasset" 450
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Functions/M_FX_EmissiveModulate.uasset" 451
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Fire/T_FireNoiseTile_02.uasset" 452
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_Glow.uasset" 453
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset" 454
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/MF_GreystoneFX_Colors.uasset" 455
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Sparks/T_Spark_Soft.uasset" 456
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/M_Greystone_Sparks.uasset" 457
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 458
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugTimeSine.uasset" 459
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/MaterialFunctions/Textures/Noise/T_SmokeRend_N.uasset" 460
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Energy/Plasma/T_Turbulence_Seamless.uasset" 461
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Tile/Noise/T_Soft_Noise.uasset" 462
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Heroes/M_BombFlames.uasset" 463
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/MaterialFunctions/ParameterCollections/OrionGlobalArtCollection.uasset" 464
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Energy/T_Plasma_Wisps.uasset" 465
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Energy/T_Plasma_Wisps_N.uasset" 466
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Smoke/T_GreystoneSmoke_01_A.uasset" 467
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Heroes/M_Greystone_Wispy_Pulse_Dense.uasset" 468
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Functions/MF_DitheredRefraction.uasset" 469
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Masks/T_FireBall_LerpMask.uasset" 470
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Masks/T_Shockwave.uasset" 471
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/NormalShapes/T_Sphere_N.uasset" 472
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/NormalShapes/T_Torus_N.uasset" 473
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Heroes/M_GreystoneImpactRefraction.uasset" 474
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Flares/T_Flare_Spikeball.uasset" 475
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/Masks/T_Radial_Burst.uasset" 476
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Textures/NormalShapes/T_Radial_Refraction_Blur_N.uasset" 477
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/Heroes/M_Radial_Blur_Refraction.uasset" 478
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/WorldPositionWithScale.uasset" 479
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 480
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/WorldPositionBehindTranslucency.uasset" 481
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/VolumeFog/M_Fog_SphericalDensity.uasset" 482
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/VolumeFog/MI_Fog_SphericalDensity_Particle.uasset" 483
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Meshes/Heroes/SM_Greystone_SlowDome.uasset" 484
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Meshes/Heroes/SM_ManaBombFlame.uasset" 485
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Meshes/Shapes/SM_Sphere_FlippedNormals.uasset" 486
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/VectorFields/VF_RandomNoise_01_90.uasset" 487
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Particles/Greystone/Abilities/Deflect/FX/P_Greystone_Deflect_Remove.uasset" 488
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Minion/Minion_Blood_Explosion.uasset" 489
+"../../../../../Project G Blood Moon Genesis/Content/Minion/Minion_BP.uasset" 490
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/Effects/Particles/AtmosphereDust/AtmosphereDustTexture.uasset" 491
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_GiantGlowCards.uasset" 492
+"../../../../../Project G Blood Moon Genesis/Content/BallisticsVFX/Particles/VField/VF_RandomNoise_01_90.uasset" 493
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Shuten_Doji_New_default.uasset" 494
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Shuten_Doji_Texture_1_PhysicsAsset.uasset" 495
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Animations/Shuten_Doji_Texture_1.uasset" 496
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/BodySpark/Boss_BodySpark_P.uasset" 497
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/HealingFX/Pilar_M.uasset" 498
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/HealingFX/pillar.uasset" 499
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/HealingFX/Boss_Heal_Particle.uasset" 500
+"../../../../../Project G Blood Moon Genesis/Content/Boss/FX/Impact/Boss_ImpactSword.uasset" 501
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Shuten_Final_02_-_Default_BaseColor.uasset" 502
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Shuten_Final_02_-_Default_Metallic.uasset" 503
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Shuten_Final_02_-_Default_Normal.uasset" 504
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Shuten_Final_02_-_Default_Roughness.uasset" 505
+"../../../../../Project G Blood Moon Genesis/Content/Boss/02_-_Default.uasset" 506
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Shuten_Final_Head_BaseColor.uasset" 507
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Shuten_Final_Head_Metallic.uasset" 508
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Shuten_Final_Head_Normal.uasset" 509
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Shuten_Final_Head_Roughness.uasset" 510
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Head.uasset" 511
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Shuten_Doji_-_For_Jack_2_PhysicsAsset.uasset" 512
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Shuten_Doji_-_For_Jack_2.uasset" 513
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Textures/t_Flash_01.uasset" 514
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_GiantGlowCards_02.uasset" 515
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_GPU_Spark_ArmorHit.uasset" 516
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/Common/Materials/Functions/MF_APDitheredRefraction.uasset" 517
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/M_Refraction.uasset" 518
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_RefractionPan.uasset" 519
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_RefractionBurst_ArmorHit_Dithered.uasset" 520
+"../../../../../Project G Blood Moon Genesis/Content/GoodUISelectVFX/Textures/shape/Wave_Circle.uasset" 521
+"../../../../../Project G Blood Moon Genesis/Content/Aperion/EffectsRedux/Materials/MI_WaveCircle.uasset" 522
+"../../../../../Project G Blood Moon Genesis/Content/Effects/Armor_Impact/PS_ArmorImpact.uasset" 523
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Yari_Release_From_Ground_After_Throw.uasset" 524
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Player_Hits_Boss_Sound_2.uasset" 525
+"../../../../../Project G Blood Moon Genesis/Content/Boss/MyBossCharacter.uasset" 526
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Enum/Camera_Location_Enum.uasset" 527
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Enum/Camera_State_Enum.uasset" 528
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/CameraBP.uasset" 529
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Standard_2.uasset" 530
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Animations/Katana_only.uasset" 531
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Katana/KatanaBP.uasset" 532
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Evade/Perfect_Dodge_Sound_Effect.uasset" 533
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Evade/time_slow_back_to_normal_Perfect_Evade.uasset" 534
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Level/LevelEffectControllerBP.uasset" 535
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Armor_BaseColor.uasset" 536
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Armor_Metallic.uasset" 537
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Armor_Normal.uasset" 538
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Armor_Roughness.uasset" 539
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Armor_BaseColor_Mat.uasset" 540
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Body_BaseColor.uasset" 541
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Body_Metallic.uasset" 542
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Body_Normal.uasset" 543
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Body_Roughness.uasset" 544
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Body_BaseColor_Mat.uasset" 545
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Masks_and_Earrings_BaseColor.uasset" 546
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Masks_and_Earrings_Metallic.uasset" 547
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Masks_and_Earrings_Normal.uasset" 548
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Masks_and_Earrings_Roughness.uasset" 549
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Masks_and_Earrings_BaseColor_Mat.uasset" 550
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Rope_BaseColor.uasset" 551
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Rope_Metallic.uasset" 552
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Rope_Normal.uasset" 553
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Rope_Roughness.uasset" 554
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/Aiko_RetopoFInal2_Rope_BaseColor_Mat.uasset" 555
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/face/Face.uasset" 556
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/face/Face_Mat.uasset" 557
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 558
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 559
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_Solo_On.uasset" 560
+"../../../Engine/Content/EngineResources/Black.uasset" 561
+"../../../../../Project G Blood Moon Genesis/Content/Bust/Textures/HairClump02_Alpha.uasset" 562
+"../../../../../Project G Blood Moon Genesis/Content/Bust/Textures/HairClump02_Depth.uasset" 563
+"../../../../../Project G Blood Moon Genesis/Content/Bust/Textures/HairClump02_DyeMask.uasset" 564
+"../../../../../Project G Blood Moon Genesis/Content/Bust/Textures/HairClump02_ID.uasset" 565
+"../../../../../Project G Blood Moon Genesis/Content/Bust/Textures/HairClump02_Roots.uasset" 566
+"../../../../../Project G Blood Moon Genesis/Content/Bust/Textures/T_Hair_Flow.uasset" 567
+"../../../../../Project G Blood Moon Genesis/Content/Bust/Materials/M_HairSheet_Master2.uasset" 568
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/AlphaMap.uasset" 569
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/HeightMap.uasset" 570
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/IDMap.uasset" 571
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/RootMap.uasset" 572
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/HairPresentation_HairMaterial_3.uasset" 573
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/Aiko_Model/Texture/HairPresentation_HairMaterial_3_Inst2.uasset" 574
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/SomeMaterials/DefaultSpriteMaterialCascade.uasset" 575
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/EvadeParticle/NewParticleSystem.uasset" 576
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/FX/GettingHIt/Player_BossOrMinionHit_Impact.uasset" 577
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleA/Wavs/voice_female_a_hurt_pain_02.uasset" 578
+"../../../../../Project G Blood Moon Genesis/Content/MainMenu/HUD/PauseWidget.uasset" 579
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/MyCharacter.uasset" 580
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Running_Sound_Rock_and_Stone_Surface_3.uasset" 581
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/SoundNotify/RunningSound3_AnimNotify.uasset" 582
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Player/Evade/Footsteps_Casual_Earth_02.uasset" 583
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/SoundNotify/Evade_Sound/Landing.uasset" 584
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Boss_Sounds/Arc_Attack.uasset" 585
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleA/Wavs/voice_female_a_hurt_pain_04.uasset" 586
+"../../../../../Project G Blood Moon Genesis/Content/HumanVocalizations/HumanFemaleA/Wavs/voice_female_a_hurt_pain_06.uasset" 587
+"../../../../../Project G Blood Moon Genesis/Content/UI/Aiko_Health_BG.uasset" 588
+"../../../../../Project G Blood Moon Genesis/Content/UI/Aiko_Health_Fill.uasset" 589
+"../../../../../Project G Blood Moon Genesis/Content/UI/Aiko_Health_Fill_1.uasset" 590
+"../../../../../Project G Blood Moon Genesis/Content/UI/Aiko_Switch_BG.uasset" 591
+"../../../../../Project G Blood Moon Genesis/Content/UI/Aiko_Switch_Fill.uasset" 592
+"../../../../../Project G Blood Moon Genesis/Content/UI/Aiko_Switch_FIll_1__1_.uasset" 593
+"../../../../../Project G Blood Moon Genesis/Content/UI/Boss-Health_Fill_1.uasset" 594
+"../../../../../Project G Blood Moon Genesis/Content/UI/Boss_Health_BG.uasset" 595
+"../../../../../Project G Blood Moon Genesis/Content/UI/Boss_Health_Fill.uasset" 596
+"../../../../../Project G Blood Moon Genesis/Content/UI/EyeGlowingMat.uasset" 597
+"../../../../../Project G Blood Moon Genesis/Content/UI/Mask.uasset" 598
+"../../../../../Project G Blood Moon Genesis/Content/UI/Stamina_Bar__Yellow_.uasset" 599
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 600
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 601
+"../../../Engine/Content/BasicShapes/Cone.uasset" 602
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 603
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 604
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 605
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 606
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 607
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 608
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 609
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 610
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 611
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 612
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 613
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 614
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 615
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 616
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 617
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 618
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 619
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 620
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 621
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 622
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 623
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 624
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 625
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 626
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 627
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 628
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 629
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 630
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 631
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 632
+"../../../Engine/Content/EditorResources/S_Note.uasset" 633
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 634
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 635
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 636
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 637
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 638
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 639
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 640
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 641
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 642
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 643
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 644
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 645
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 646
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 647
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 648
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 649
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 650
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 651
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 652
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 653
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 654
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 655
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 656
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 657
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 658
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 659
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 660
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 661
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 662
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 663
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 664
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 665
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 666
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 667
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 668
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 669
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 670
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 671
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 672
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 673
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 674
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 675
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 676
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 677
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 678
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 679
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 680
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 681
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 682
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 683
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 684
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 685
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 686
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 687
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 688
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 689
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 690
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 691
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 692
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 693
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 694
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 695
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 696
+"../../../Engine/Content/EngineSounds/Master.uasset" 697
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 698
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 699
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 700
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 701
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 702
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 703
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 704
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 705
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 706
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 707
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 708
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 709
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 710
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 711
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 712
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 713
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 714
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 715
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 716
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 717
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 718
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 719
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 720
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 721
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 722
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 723
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 724
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 725
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 726
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 727
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 728
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 729
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 730
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 731
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 732
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 733
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 734
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 735
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 736
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 737
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 738
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 739
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 740
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 741
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 742
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 743
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 744
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 745
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 746
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 747
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 748
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 749
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 750
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 751
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 752
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 753
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 754
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 755
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 756
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 757
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 758
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 759
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 760
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 761
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 762
+"../../../../../Project G Blood Moon Genesis/Content/ThirdPersonBP/Maps/Arena-Stream_BuiltData.uasset" 763
+"../../../../../Project G Blood Moon Genesis/Content/ThirdPersonBP/Maps/Arena-Stream.umap" 764
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ArenaTexture/ArenaGround_BaseColor.uasset" 765
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ArenaTexture/ArenaGround_Metallic.uasset" 766
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ArenaTexture/ArenaGround_Normal.uasset" 767
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ArenaTexture/ArenaGround_Roughness.uasset" 768
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ArenaTexture/needles_01_normal.uasset" 769
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/matArena_Ground.uasset" 770
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/ArenaGround.uasset" 771
+"../../../../../Project G Blood Moon Genesis/Content/Boss/ArenaGround_Blueprint.uasset" 772
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 773
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunLight.uasset" 774
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 775
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 776
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 777
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 778
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 779
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 780
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 781
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 782
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 783
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 784
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 785
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 786
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 787
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 788
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 789
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 790
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 791
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 792
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 793
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 794
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 795
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 796
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 797
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 798
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 799
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 800
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 801
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 802
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 803
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat4Values.uasset" 804
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 805
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 806
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 807
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 808
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 809
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 810
+"../../../Engine/Content/BasicShapes/Plane.uasset" 811
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 812
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 813
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 814
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 815
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 816
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 817
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 818
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 819
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 820
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 821
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 822
+"../../../../../Project G Blood Moon Genesis/Content/GoodSky/Blueprint/BP_GoodSky.uasset" 823
+"../../../../../Project G Blood Moon Genesis/Content/Explosions/Textures/water2N.uasset" 824
+"../../../../../Project G Blood Moon Genesis/Content/Boss/BloodPoolMaterial.uasset" 825
+"../../../../../Project G Blood Moon Genesis/Content/Boss/BloodPoolMaterial_Inst.uasset" 826
+"../../../../../Project G Blood Moon Genesis/Content/Boss/BloodPool_BP.uasset" 827
+"../../../../../Project G Blood Moon Genesis/Content/Boss/BloodProjectileNew_BP.uasset" 828
+"../../../Engine/Content/BasicShapes/Cube.uasset" 829
+"../../../../../Project G Blood Moon Genesis/Content/Boss/PortalWall_BP.uasset" 830
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Throne.uasset" 831
+"../../../../../Project G Blood Moon Genesis/Content/Boss/Throne_Blueprint.uasset" 832
+"../../../../../Project G Blood Moon Genesis/Content/Boss/ThronePos_BP.uasset" 833
+"../../../../../Project G Blood Moon Genesis/Content/UI/Boss_HP__GREY_.uasset" 834
+"../../../../../Project G Blood Moon Genesis/Content/UI/Boss_HP__RED_.uasset" 835
+"../../../../../Project G Blood Moon Genesis/Content/UI/Boss_HP_Border.uasset" 836
+"../../../../../Project G Blood Moon Genesis/Content/UI/Boss_Name.uasset" 837
+"../../../../../Project G Blood Moon Genesis/Content/UI/Boss_Stamina__Yellow_.uasset" 838
+"../../../../../Project G Blood Moon Genesis/Content/UI/Boss_Stamina_Border.uasset" 839
+"../../../../../Project G Blood Moon Genesis/Content/UI/Transparent.uasset" 840
+"../../../../../Project G Blood Moon Genesis/Content/Boss/BossHealth.uasset" 841
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ToriiGateTexture/ToriiGate_Done_BaseColor.uasset" 842
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ToriiGateTexture/ToriiGate_Done_Normal.uasset" 843
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ToriiGateTexture/ToriiGate_Done_OcclusionRoughnessMetallic.uasset" 844
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/mat_ToriiGate.uasset" 845
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/ToriiGate.uasset" 846
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Music/Boss_Theme_Sound_Humanoid.uasset" 847
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Music/Boss_Theme_Sound_Humanoid_Cue.uasset" 848
+"../../../../../Project G Blood Moon Genesis/Content/Boss/ToriiGate_BP.uasset" 849
+"../../../../../Project G Blood Moon Genesis/Content/ThirdPersonBP/Maps/Arena_BuiltData.uasset" 850
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/TexturesCom_CliffRock3_2x2_2K_height_copy.uasset" 851
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/TexturesCom_Rock_Lava_2K_D.uasset" 852
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/TexturesCom_Rock_Lava_2K_N.uasset" 853
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/TexturesCom_Rock_Lava_2K_ORE.uasset" 854
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Materials/rock_sharp.uasset" 855
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/emissive2.uasset" 856
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Materials/rock_sharp_emissive.uasset" 857
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/TexturesCom_CliffRock3_2x2_2K_albedo.uasset" 858
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/TexturesCom_CliffRock3_2x2_2K_ao_copy.uasset" 859
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/TexturesCom_CliffRock3_2x2_2K_normal.uasset" 860
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/TexturesCom_CliffRock3_2x2_2K_roughness_copy.uasset" 861
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/TexturesCom_Rock_Lava_2K_H.uasset" 862
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Global/Eyes/Textures/T_Swirly_Noise.uasset" 863
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/FX/Materials/MaterialFunctions/Textures/Noise/T_TilingNoise03.uasset" 864
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Materials/rock_wall.uasset" 865
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Boss_statue1_default.uasset" 866
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Altar/1200px-Prince_Hanzoku_terrorised_by_a_nine-_tailed_fox.uasset" 867
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/AltarMaterial/mat_Altar_Potrait.uasset" 868
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Waterfall/RandomNormal.uasset" 869
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Waterfall/water_seamless.uasset" 870
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/BloodPortal_Water.uasset" 871
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Tree_02_Texture/Tree_02_BaseColor.uasset" 872
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Tree_02_Texture/Tree_02_Normal.uasset" 873
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Tree_02_Texture/Tree_02_OcclusionRoughnessMetallic.uasset" 874
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/mat_Tree_02.uasset" 875
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Wood_01_Texture/Wood_01_BaseColor.uasset" 876
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Wood_01_Texture/Wood_01_Normal.uasset" 877
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Wood_01_Texture/Wood_01_OcclusionRoughnessMetallic.uasset" 878
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/matWood_01.uasset" 879
+"../../../../../Project G Blood Moon Genesis/Content/UI/Mask_2.uasset" 880
+"../../../../../Project G Blood Moon Genesis/Content/UI/Mask_Eyes__Behind_.uasset" 881
+"../../../../../Project G Blood Moon Genesis/Content/UI/Player_Health__Grey_.uasset" 882
+"../../../../../Project G Blood Moon Genesis/Content/UI/Player_Health__Red_.uasset" 883
+"../../../../../Project G Blood Moon Genesis/Content/UI/Player_Health_Border.uasset" 884
+"../../../../../Project G Blood Moon Genesis/Content/UI/Stamina_Bar__Blue_.uasset" 885
+"../../../../../Project G Blood Moon Genesis/Content/UI/Stamina_Bar_Border.uasset" 886
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/HUD/PlayerHealth.uasset" 887
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Boss_Statue.uasset" 888
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/ShrineBase.uasset" 889
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/ShrineFence_R.uasset" 890
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/DetailTexturing.uasset" 891
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 892
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/T_atlas_mid_rocks_BC.uasset" 893
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/T_atlas_mid_rocks_MT_R_AO.uasset" 894
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/T_atlas_mid_rocks_N.uasset" 895
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/T_uvfree_rock_07_BC_H.uasset" 896
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/T_uvfree_rock_07_N.uasset" 897
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Materials/M_Rocks.uasset" 898
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/T_big_rock_03_BC.uasset" 899
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/T_big_rock_03_MT_R_AO.uasset" 900
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Textures/T_big_rock_03_N.uasset" 901
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Materials/MI_Rocks_Big_03.uasset" 902
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/ShrineFence_R_Half.uasset" 903
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Box009Mat.uasset" 904
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Yari.uasset" 905
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/BlockoutAsset/Minion_Head_Blockout_default.uasset" 906
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/BlockoutAsset/Minion_Head_Blockout.uasset" 907
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/AltarTexture/Bowl_BaseColor.uasset" 908
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/AltarTexture/Bowl_Normal.uasset" 909
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/AltarTexture/Bowl_OcclusionRoughnessMetallic.uasset" 910
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/AltarMaterial/mat_Altar_Bowl.uasset" 911
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Altar/Altar_Bowl.uasset" 912
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/AltarTexture/Candle_BaseColor.uasset" 913
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/AltarTexture/Candle_Normal.uasset" 914
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/AltarTexture/Candle_OcclusionRoughnessMetallic.uasset" 915
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/AltarMaterial/mat_Altar_Candle.uasset" 916
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Altar/Altar_Candle.uasset" 917
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Altar/Altar_Door.uasset" 918
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Altar/Altar_Potrait.uasset" 919
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/AltarTexture/Seal_BaseColor.uasset" 920
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/AltarTexture/Seal_Normal.uasset" 921
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/AltarTexture/Seal_OcclusionRoughnessMetallic.uasset" 922
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/AltarMaterial/mat_Altar_Seal.uasset" 923
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Altar/Altar_Seal.uasset" 924
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Altar/Altar_Shelf.uasset" 925
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Aset_rock_granite_X_rcygn_LOD2.uasset" 926
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Aset_rock_volcanic_L_qivfi_LOD2.uasset" 927
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/GourdTexture/Gourd_Done_BaseColor.uasset" 928
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/GourdTexture/Gourd_Done_Normal.uasset" 929
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/GourdTexture/Gourd_Done_OcclusionRoughnessMetallic.uasset" 930
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/matGourd.uasset" 931
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Gourd.uasset" 932
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/HeadStatueTexture/HeadStatue_BaseColor.uasset" 933
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/HeadStatueTexture/HeadStatue_E.uasset" 934
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/HeadStatueTexture/HeadStatue_Normal.uasset" 935
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/HeadStatueTexture/HeadStatue_OcclusionRoughnessMetallic.uasset" 936
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/mat_HeadStatue.uasset" 937
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/HeadStatue.uasset" 938
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Rock_Test.uasset" 939
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Stairs_01.uasset" 940
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/HeadStatueStandTexture/Stand_BaseColor.uasset" 941
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/HeadStatueStandTexture/Stand_Normal.uasset" 942
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/HeadStatueStandTexture/Stand_OcclusionRoughnessMetallic.uasset" 943
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/mat_HeadStatue_Stand.uasset" 944
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Stand_01.uasset" 945
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Stone_01_Sharp.uasset" 946
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/StonePathTexture/StonePath_Done_BaseColor.uasset" 947
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/StonePathTexture/StonePath_Done_Normal.uasset" 948
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/StonePathTexture/StonePath_Done_OcclusionRoughnessMetallic.uasset" 949
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/mat_StonePath.uasset" 950
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/StonePath/StonePath_01.uasset" 951
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/StonePath/StonePath_02.uasset" 952
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/StonePath/StonePath_03.uasset" 953
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/StonePath/StonePath_04.uasset" 954
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/StonePath/StonePath_05.uasset" 955
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Tree_01_Texture/Tree_01_BaseColor.uasset" 956
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Tree_01_Texture/Tree_01_Normal.uasset" 957
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/Tree_01_Texture/Tree_01_OcclusionRoughnessMetallic.uasset" 958
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/mat_Tree_01.uasset" 959
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Tree_01/Tree_01_LOD0.uasset" 960
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Tree_02/Tree_02_LOD0.uasset" 961
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ToriiGateTexture/Torii_Gate_DefaultMaterial_BaseColor.uasset" 962
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ToriiGateTexture/Torii_Gate_DefaultMaterial_Normal.uasset" 963
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Texture/ToriiGateTexture/Torii_Gate_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 964
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/mat_ToriiGate_N.uasset" 965
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Tutorial/Torii_Gate_N.uasset" 966
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Water.uasset" 967
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/Materials/BloodPortal_WaterFall.uasset" 968
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Rock_Test/GameReadyAsset/Waterfall/Waterfall.uasset" 969
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/firesingle/bigfire_single.uasset" 970
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/Flow/disort_test2.uasset" 971
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/Flow/EmberNoise3.uasset" 972
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Master/Distortion_Mat.uasset" 973
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Distortion/Distortion_Mat_Inst2.uasset" 974
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/Flow/Flame.uasset" 975
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Master/Basic_Emi_Mat.uasset" 976
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Etc/Flame_Inst.uasset" 977
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/CandleFire/CandleFire_D.uasset" 978
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Master/Sequence_Mat.uasset" 979
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/Fire/bigfireB_fwd.uasset" 980
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Fire_Inst/bigfireB_fwd_Inst.uasset" 981
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/Fireloop/bonefire.uasset" 982
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Fireloop_Inst/BoneFire_Inst.uasset" 983
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/Flow/Circle_normal.uasset" 984
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/smoke/0_6_smoke.uasset" 985
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Master/Smoke1_Mat.uasset" 986
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/smoke/1_6_smoke2_1.uasset" 987
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Smoke_Inst/1_6_smoke2_1_Inst.uasset" 988
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Particles/Fire/Fire_02.uasset" 989
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/Fire/blowingFire_fwd2.uasset" 990
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Fire_Inst/BlowingFire_fwd2_Inst.uasset" 991
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/Fireloop/bigfire2.uasset" 992
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Fireloop_Inst/bigfire2_Inst.uasset" 993
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/smoke/3_6_smoke4_vg.uasset" 994
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Smoke_Inst/3_6_smoke4_vg_Inst.uasset" 995
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Particles/Fire/Fire_06.uasset" 996
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/smoke/2_6_smoke3_vg.uasset" 997
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Master/Smoke_blend_Mat.uasset" 998
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Textures/smoke/5_6_smoke6.uasset" 999
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Materials/Smoke_Inst/Smoke_blend_Mat_Inst.uasset" 1000
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Particles/Reference/Smoke/5_6_smoke6_blueali.uasset" 1001
+"../../../../../Project G Blood Moon Genesis/Content/M5VFXVOL2/Particles/Reference/Smoke/5_6_smoke6_pt2.uasset" 1002
+"../../../../../Project G Blood Moon Genesis/Content/MainMenu/HUD/GameOverWidget.uasset" 1003
+"../../../../../Project G Blood Moon Genesis/Content/MainMenu/HUD/YouWinWidget.uasset" 1004
+"../../../../../Project G Blood Moon Genesis/Content/ParagonGreystone/Characters/Global/Eyes/Textures/T_EpicQuadPanorama_CC.uasset" 1005
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Boss/Yari_Hits_Ground_2.uasset" 1006
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Music/Victory_Song.uasset" 1007
+"../../../../../Project G Blood Moon Genesis/Content/Sound/Music/Victory_Song_Cue.uasset" 1008
+"../../../../../Project G Blood Moon Genesis/Content/ThirdPersonBP/Maps/Arena.umap" 1009
+"../../../../../Project G Blood Moon Genesis/Content/ThirdPersonBP/Maps/ArenaLevel.umap" 1010
+"../../../../../Project G Blood Moon Genesis/Content/ThirdPersonBP/Maps/MainEnvironment_BuiltData.uasset" 1011
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Terrain/Terrain_BaseColor.uasset" 1012
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Terrain/Terrain_Metallic.uasset" 1013
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Terrain/Terrain_Normal.uasset" 1014
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Terrain/Terrain_Roughness.uasset" 1015
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Terrain/matTerrain.uasset" 1016
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Light.uasset" 1017
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/OniHead.uasset" 1018
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Props_Drum.uasset" 1019
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Props_Flag.uasset" 1020
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Props_HeadLamp.uasset" 1021
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/ShrineFence.uasset" 1022
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/ShrineFence_R_Single.uasset" 1023
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Stair.uasset" 1024
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Models/Torii_Gate.uasset" 1025
+"../../../../../Project G Blood Moon Genesis/Content/Environment_Set/Environment/Rocks/Terrain/Terrain.uasset" 1026
+"../../../../../Project G Blood Moon Genesis/Content/ThirdPersonBP/Maps/MainEnvironment.umap" 1027
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/UI/NewMenu_UI.uasset" 1028
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/CoreBP/MyPlayerController.uasset" 1029
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/HUD/lockon_T.uasset" 1030
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/MyTPSCharacter/HUD/MyCharacterHUD.uasset" 1031
+"../../../../../Project G Blood Moon Genesis/Content/Blueprints/CoreBP/MyGameMode.uasset" 1032
+"../../../../../Project G Blood Moon Genesis/Content/ThirdPersonBP/Maps/MainMenu_BuiltData.uasset" 1033
+"../../../../../Project G Blood Moon Genesis/Content/MainMenu/Sprites/Game_Title_Final_4.uasset" 1034
+"../../../../../Project G Blood Moon Genesis/Content/MainMenu/HUD/MainMenuWidget.uasset" 1035
+"../../../../../Project G Blood Moon Genesis/Content/ThirdPersonBP/Maps/MainMenu.umap" 1036
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1037
+"../../../Engine/Content/Maps/Entry.umap" 1038
